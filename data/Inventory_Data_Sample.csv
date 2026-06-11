@@ -1,0 +1,5 @@
+Product_Name,Product_ID,Current_Stock,Supplier_Lead_Time(days),Safety_Stock
+BT12_Speakers,5614237819,43,3,15
+SmartBand7_Watch,5128253920,78,2,30
+WearPro_Watch,7825371920,43,2,10
+ROHS_Speaker,8193271829,48,3,20
