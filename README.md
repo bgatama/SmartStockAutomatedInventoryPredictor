@@ -54,7 +54,10 @@ pip install -r requirements.txt
     .....
 
 ## Screenshots:
-    ......
+    ![Dashboard Screenshot](screenshots/1.png)
+    ![Dashboard Screenshot](screenshots/2.png)
+    ![Dashboard Screenshot](screenshots/3.png)
+    ![Dashboard Screenshot](screenshots/4.png)
 
 ## About the Project:
     ## Different file types and what they do:
