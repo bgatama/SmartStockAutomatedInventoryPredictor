@@ -54,10 +54,13 @@ pip install -r requirements.txt
     .....
 
 ## Screenshots:
-    ![image alt](https://github.com/bgatama/SmartStockAutomatedInventoryPredictor/blob/3e49f08cf9fde89d61bb1294aba6b3e3a50b0cfc/screenshots/1.png)
-    ![image alt](https://github.com/bgatama/SmartStockAutomatedInventoryPredictor/blob/3e49f08cf9fde89d61bb1294aba6b3e3a50b0cfc/screenshots/2.png)
-    ![image alt](https://github.com/bgatama/SmartStockAutomatedInventoryPredictor/blob/3e49f08cf9fde89d61bb1294aba6b3e3a50b0cfc/screenshots/3.png)
-    ![image alt](https://github.com/bgatama/SmartStockAutomatedInventoryPredictor/blob/3e49f08cf9fde89d61bb1294aba6b3e3a50b0cfc/screenshots/4.png)
+![Screenshot 1](screenshots/1.png)
+
+![Screenshot 2](screenshots/2.png)
+
+![Screenshot 3](screenshots/3.png)
+
+![Screenshot 4](screenshots/4.png)
 
 ## About the Project:
     ## Different file types and what they do:
