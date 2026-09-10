@@ -2,3 +2,4 @@ pandas
 streamlit
 plotly
 streamlit-shadcn-ui
+streamlit-option-menu
