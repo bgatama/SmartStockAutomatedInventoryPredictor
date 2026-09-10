@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```
 
 ## Live Demo:
-    .....
+    https://smartstockautomatedinventorypredictor-bqzenymzdyc8mickgvjw8n.streamlit.app/
 
 ## Screenshots:
 ![Screenshot 1](screenshots/1.png)
